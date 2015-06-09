@@ -31,24 +31,14 @@ nav ul li {
   text-align:center;
 }
 
-.paw-logo {
-  text-align: center;
-}
 .fa-paw {
   color: red;
-  font-size: 220px;
 }
 
 .fa-pinterest-p{
   color:red;
 }
 
-.top {
-  margin-bottom: 150px;
-}
-
-#how-1 {
-  font-size: 30px;
-  margin: 0 auto;
-  width: 400px;
+.top{
+  margin-bottom:150px;
 }
